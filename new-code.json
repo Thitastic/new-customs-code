@@ -1,0 +1,786 @@
+[
+  {
+    "page": 1,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 4",
+        "items": [
+          {
+            "currentCode": "03CD",
+            "departmentName": "Hải quan Thái Bình",
+            "newCode": "28CD",
+            "shortedName": "HQTHAIBINH",
+            "newDepartmentName": "Hải quan Thái Bình"
+          },
+          {
+            "currentCode": "03PL",
+            "departmentName": "Hải quan Hưng Yên",
+            "newCode": "28PL",
+            "shortedName": "HQHUNGYEN",
+            "newDepartmentName": "Hải quan Hưng Yên"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 5",
+        "items": [
+          {
+            "currentCode": "11PK",
+            "departmentName": "Hải quan Bắc Kạn",
+            "newCode": "18PK",
+            "shortedName": "HQBACKAN",
+            "newDepartmentName": "Hải quan Bắc Kạn"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 7",
+        "items": [
+          {
+            "currentCode": "01BT",
+            "departmentName": "Hải quan Yên Bái",
+            "newCode": "13BT",
+            "shortedName": "HQYENBAI",
+            "newDepartmentName": "Hải quan Yên Bái"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 10",
+        "items": [
+          {
+            "currentCode": "12BE",
+            "departmentName": "Hải quan cửa khẩu quốc tế Lóng Sập",
+            "newCode": "27BE",
+            "shortedName": "HQLONGSAP",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Lóng Sập"
+          },
+          {
+            "currentCode": "12BI",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          },
+          {
+            "currentCode": "12F1",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          },
+          {
+            "currentCode": "12F2",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 12",
+        "items": [
+          {
+            "currentCode": "38BC",
+            "departmentName": "Hải quan cửa khẩu quốc tế Bờ Y",
+            "newCode": "34PD",
+            "shortedName": "HQCKQTBOY",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Bờ Y"
+          },
+          {
+            "currentCode": "38PD",
+            "departmentName": "Hải quan cửa khẩu quốc tế Bờ Y",
+            "newCode": "34PD",
+            "shortedName": "HQCKQTBOY",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Bờ Y"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 13",
+        "items": [
+          {
+            "currentCode": "40B1",
+            "departmentName": "Hải quan cửa khẩu Buprăng",
+            "newCode": "41B1",
+            "shortedName": "CKBUPRANG",
+            "newDepartmentName": "Hải quan cửa khẩu Buprăng"
+          },
+          {
+            "currentCode": "40D1",
+            "departmentName": "Hải quan Đà Lạt",
+            "newCode": "41D1",
+            "shortedName": "HQDALAT",
+            "newDepartmentName": "Hải quan Đà Lạt"
+          },
+          {
+            "currentCode": "47NM",
+            "departmentName": "Hải quan cửa khẩu cảng Bình Thuận",
+            "newCode": "41NM",
+            "shortedName": "BTHUANDN",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Bình Thuận"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 19",
+        "items": [
+          {
+            "currentCode": "48BG",
+            "departmentName": "Hải quan Bến Tre",
+            "newCode": "54BG",
+            "shortedName": "BENTRELA",
+            "newDepartmentName": "Hải quan Bến Tre"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 20",
+        "items": [
+          {
+            "currentCode": "48CG",
+            "departmentName": "Hải quan cửa khẩu cảng Mỹ Tho",
+            "newCode": "49CG",
+            "shortedName": "MYTHOLA",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Mỹ Tho"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 1",
+        "items": [
+          {
+            "currentCode": "01B1",
+            "departmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài",
+            "newCode": "01B1",
+            "shortedName": "HQNOIBAI",
+            "newDepartmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài"
+          },
+          {
+            "currentCode": "01B2",
+            "departmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài",
+            "newCode": "01B1",
+            "shortedName": "HQNOIBAI",
+            "newDepartmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài"
+          },
+          {
+            "currentCode": "01B5",
+            "departmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài",
+            "newCode": "01B1",
+            "shortedName": "HQNOIBAI",
+            "newDepartmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài"
+          },
+          {
+            "currentCode": "01B6",
+            "departmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài",
+            "newCode": "01B1",
+            "shortedName": "HQNOIBAI",
+            "newDepartmentName": "Hải quan cửa khẩu sân bay quốc tế Nội Bài"
+          },
+          {
+            "currentCode": "01M1",
+            "departmentName": "Hải quan Hòa Lạc",
+            "newCode": "01M1",
+            "shortedName": "HQHOALAC",
+            "newDepartmentName": "Hải quan Hòa Lạc"
+          },
+          {
+            "currentCode": "01PL",
+            "departmentName": "Hải quan Hòa Lạc",
+            "newCode": "01M1",
+            "shortedName": "HQHOALAC",
+            "newDepartmentName": "Hải quan Hòa Lạc"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 2",
+        "items": [
+          {
+            "currentCode": "02F1",
+            "departmentName": "Hải quan khu chế xuất Linh Trung",
+            "newCode": "02F1",
+            "shortedName": "HQLTRUNG",
+            "newDepartmentName": "Hải quan khu chế xuất Linh Trung"
+          },
+          {
+            "currentCode": "02F2",
+            "departmentName": "Hải quan khu chế xuất Linh Trung",
+            "newCode": "02F1",
+            "shortedName": "HQLTRUNG",
+            "newDepartmentName": "Hải quan khu chế xuất Linh Trung"
+          },
+          {
+            "currentCode": "02XE",
+            "departmentName": "Hải quan khu chế xuất Tân Thuận",
+            "newCode": "02PJ",
+            "shortedName": "HQTTTHUAN",
+            "newDepartmentName": "Hải quan khu chế xuất Tân Thuận"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 2",
+        "items": [
+          {
+            "currentCode": "02PJ",
+            "departmentName": "Hải quan khu chế xuất Tân Thuận",
+            "newCode": "02PJ",
+            "shortedName": "HQTTTHUAN",
+            "newDepartmentName": "Hải quan khu chế xuất Tân Thuận"
+          },
+          {
+            "currentCode": "02H1",
+            "departmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3",
+            "newCode": "02H1",
+            "shortedName": "HQSGKV3",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3"
+          },
+          {
+            "currentCode": "02H2",
+            "departmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3",
+            "newCode": "02H1",
+            "shortedName": "HQSGKV3",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3"
+          },
+          {
+            "currentCode": "02H3",
+            "departmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3",
+            "newCode": "02H1",
+            "shortedName": "HQSGKV3",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Sài Gòn khu vực 3"
+          },
+          {
+            "currentCode": "51C1",
+            "departmentName": "Hải quan cửa khẩu cảng Phú Mỹ",
+            "newCode": "51C1",
+            "shortedName": "NVPMYBRVT",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Phú Mỹ"
+          },
+          {
+            "currentCode": "51C2",
+            "departmentName": "Hải quan cửa khẩu cảng Phú Mỹ",
+            "newCode": "51C1",
+            "shortedName": "NVPMYBRVT",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Phú Mỹ"
+          },
+          {
+            "currentCode": "43K1",
+            "departmentName": "Hải quan khu công nghiệp Mỹ Phước",
+            "newCode": "43K1",
+            "shortedName": "DNVMPBD",
+            "newDepartmentName": "Hải quan khu công nghiệp Mỹ Phước"
+          },
+          {
+            "currentCode": "43K4",
+            "departmentName": "Hải quan khu công nghiệp Mỹ Phước",
+            "newCode": "43K1",
+            "shortedName": "DNVMPBD",
+            "newDepartmentName": "Hải quan khu công nghiệp Mỹ Phước"
+          },
+          {
+            "currentCode": "43NG",
+            "departmentName": "Hải quan khu công nghiệp Việt Hương",
+            "newCode": "43NG",
+            "shortedName": "VHUONGBD",
+            "newDepartmentName": "Hải quan khu công nghiệp Việt Hương"
+          },
+          {
+            "currentCode": "43PB",
+            "departmentName": "Hải quan khu công nghiệp Việt Hương",
+            "newCode": "43NG",
+            "shortedName": "VHUONGBD",
+            "newDepartmentName": "Hải quan khu công nghiệp Việt Hương"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 3",
+        "items": [
+          {
+            "currentCode": "03NK",
+            "departmentName": "Hải quan khu chế xuất và khu công nghiệp Hải Phòng",
+            "newCode": "03PA",
+            "shortedName": "HQKCXKCNHP",
+            "newDepartmentName": "Hải quan khu chế xuất và khu công nghiệp Hải Phòng"
+          },
+          {
+            "currentCode": "03PA",
+            "departmentName": "Hải quan khu chế xuất và khu công nghiệp Hải Phòng",
+            "newCode": "03PA",
+            "shortedName": "HQKCXKCNHP",
+            "newDepartmentName": "Hải quan khu chế xuất và khu công nghiệp Hải Phòng"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 5",
+        "items": [
+          {
+            "currentCode": "18B1",
+            "departmentName": "Hải quan Thái Nguyên",
+            "newCode": "18B1",
+            "shortedName": "HQTNGUYEN",
+            "newDepartmentName": "Hải quan Thái Nguyên"
+          },
+          {
+            "currentCode": "18B2",
+            "departmentName": "Hải quan Thái Nguyên",
+            "newCode": "18B1",
+            "shortedName": "HQTNGUYEN",
+            "newDepartmentName": "Hải quan Thái Nguyên"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 6",
+        "items": [
+          {
+            "currentCode": "13G1",
+            "departmentName": "Hải quan cửa khẩu ga đường sắt quốc tế Lào Cai",
+            "newCode": "13G1",
+            "shortedName": "HQDSLAOCAI",
+            "newDepartmentName": "Hải quan cửa khẩu ga đường sắt quốc tế Lào Cai"
+          },
+          {
+            "currentCode": "13G2",
+            "departmentName": "Hải quan cửa khẩu ga đường sắt quốc tế Lào Cai",
+            "newCode": "13G1",
+            "shortedName": "HQDSLAOCAI",
+            "newDepartmentName": "Hải quan cửa khẩu ga đường sắt quốc tế Lào Cai"
+          },
+          {
+            "currentCode": "12B1",
+            "departmentName": "Hải quan cửa khẩu quốc tế Tây Trang",
+            "newCode": "12B1",
+            "shortedName": "HQTAYTRANG",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Tây Trang"
+          },
+          {
+            "currentCode": "12B2",
+            "departmentName": "Hải quan cửa khẩu quốc tế Tây Trang",
+            "newCode": "12B1",
+            "shortedName": "HQTAYTRANG",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Tây Trang"
+          },
+          {
+            "currentCode": "12H1",
+            "departmentName": "Hải quan cửa khẩu Ma Lù Thàng",
+            "newCode": "12H1",
+            "shortedName": "HQMLTHANG",
+            "newDepartmentName": "Hải quan cửa khẩu Ma Lù Thàng"
+          },
+          {
+            "currentCode": "12H2",
+            "departmentName": "Hải quan cửa khẩu Ma Lù Thàng",
+            "newCode": "12H1",
+            "shortedName": "HQMLTHANG",
+            "newDepartmentName": "Hải quan cửa khẩu Ma Lù Thàng"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 9",
+        "items": [
+          {
+            "currentCode": "33CC",
+            "departmentName": "Hải quan cửa khẩu cảng Chân Mây",
+            "newCode": "33CF",
+            "shortedName": "CKCCHANMAY",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Chân Mây"
+          },
+          {
+            "currentCode": "33CF",
+            "departmentName": "Hải quan cửa khẩu cảng Chân Mây",
+            "newCode": "33CF",
+            "shortedName": "CKCCHANMAY",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Chân Mây"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 10",
+        "items": [
+          {
+            "currentCode": "12BI",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          },
+          {
+            "currentCode": "12F1",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          },
+          {
+            "currentCode": "12F2",
+            "departmentName": "Hải quan Sơn La",
+            "newCode": "27BI",
+            "shortedName": "HQSONLA",
+            "newDepartmentName": "Hải quan Sơn La"
+          },
+          {
+            "currentCode": "27B1",
+            "departmentName": "Hải quan cửa khẩu quốc tế Na Mèo",
+            "newCode": "27B1",
+            "shortedName": "CKQTNAMEO",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Na Mèo"
+          },
+          {
+            "currentCode": "27B2",
+            "departmentName": "Hải quan cửa khẩu quốc tế Na Mèo",
+            "newCode": "27B1",
+            "shortedName": "CKQTNAMEO",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Na Mèo"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 11",
+        "items": [
+          {
+            "currentCode": "30BB",
+            "departmentName": "Hải quan cửa khẩu quốc tế Cầu Treo",
+            "newCode": "30BB",
+            "shortedName": "CKCAUTREO",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Cầu Treo"
+          },
+          {
+            "currentCode": "30BI",
+            "departmentName": "Hải quan cửa khẩu quốc tế Cầu Treo",
+            "newCode": "30BB",
+            "shortedName": "CKCAUTREO",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Cầu Treo"
+          },
+          {
+            "currentCode": "30F1",
+            "departmentName": "Hải quan cửa khẩu cảng Vũng Áng",
+            "newCode": "30F1",
+            "shortedName": "CKCVUNGANG",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Vũng Áng"
+          },
+          {
+            "currentCode": "30F2",
+            "departmentName": "Hải quan cửa khẩu cảng Vũng Áng",
+            "newCode": "30F1",
+            "shortedName": "CKCVUNGANG",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Vũng Áng"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 12",
+        "items": [
+          {
+            "currentCode": "34CC",
+            "departmentName": "Hải quan Khu công nghiệp Đà Nẵng",
+            "newCode": "34NG",
+            "shortedName": "KCNDANANG",
+            "newDepartmentName": "Hải quan Khu công nghiệp Đà Nẵng"
+          },
+          {
+            "currentCode": "34NG",
+            "departmentName": "Hải quan khu công nghiệp Đà Nẵng",
+            "newCode": "34NG",
+            "shortedName": "KCNDANANG",
+            "newDepartmentName": "Hải quan Khu công nghiệp Đà Nẵng"
+          },
+          {
+            "currentCode": "60C1",
+            "departmentName": "Hải quan khu công nghiệp Quảng Nam",
+            "newCode": "60C1",
+            "shortedName": "CNQUANGNAM",
+            "newDepartmentName": "Hải quan khu công nghiệp Quảng Nam"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 12",
+        "items": [
+          {
+            "currentCode": "60C2",
+            "departmentName": "Hải quan khu công nghiệp Quảng Nam",
+            "newCode": "60C1",
+            "shortedName": "CNQUANGNAM",
+            "newDepartmentName": "Hải quan khu công nghiệp Quảng Nam"
+          },
+          {
+            "currentCode": "38BC",
+            "departmentName": "Hải quan cửa khẩu quốc tế Bờ Y",
+            "newCode": "34PD",
+            "shortedName": "HQCKQTBOY",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Bờ Y"
+          },
+          {
+            "currentCode": "38PD",
+            "departmentName": "Hải quan cửa khẩu quốc tế Bờ Y",
+            "newCode": "34PD",
+            "shortedName": "HQCKQTBOY",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Bờ Y"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 14",
+        "items": [
+          {
+            "currentCode": "38B1",
+            "departmentName": "Hải quan cửa khẩu quốc tế Lệ Thanh",
+            "newCode": "38B1",
+            "shortedName": "CKLETHANH",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Lệ Thanh"
+          },
+          {
+            "currentCode": "38B2",
+            "departmentName": "Hải quan cửa khẩu quốc tế Lệ Thanh",
+            "newCode": "38B1",
+            "shortedName": "CKLETHANH",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Lệ Thanh"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 16",
+        "items": [
+          {
+            "currentCode": "11B1",
+            "departmentName": "Hải quan cửa khẩu Tà Lùng",
+            "newCode": "11B1",
+            "shortedName": "HQTALUNG",
+            "newDepartmentName": "Hải quan cửa khẩu Tà Lùng"
+          },
+          {
+            "currentCode": "11B2",
+            "departmentName": "Hải quan cửa khẩu Tà Lùng",
+            "newCode": "11B1",
+            "shortedName": "HQTALUNG",
+            "newDepartmentName": "Hải quan cửa khẩu Tà Lùng"
+          },
+          {
+            "currentCode": "11G1",
+            "departmentName": "Hải quan cửa khẩu Lý Vạn",
+            "newCode": "11G2",
+            "shortedName": "HQLYVAN",
+            "newDepartmentName": "Hải quan cửa khẩu Lý Vạn"
+          },
+          {
+            "currentCode": "11G2",
+            "departmentName": "Hải quan cửa khẩu Lý Vạn",
+            "newCode": "11G2",
+            "shortedName": "HQLYVAN",
+            "newDepartmentName": "Hải quan cửa khẩu Lý Vạn"
+          },
+          {
+            "currentCode": "10BD",
+            "departmentName": "Hải quan cửa khẩu Săm Pun",
+            "newCode": "10BF",
+            "shortedName": "HQSAMPUN",
+            "newDepartmentName": "Hải quan cửa khẩu Săm Pun"
+          },
+          {
+            "currentCode": "10BF",
+            "departmentName": "Hải quan cửa khẩu Săm Pun",
+            "newCode": "10BF",
+            "shortedName": "HQSAMPUN",
+            "newDepartmentName": "Hải quan cửa khẩu Săm Pun"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 17",
+        "items": [
+          {
+            "currentCode": "45B1",
+            "departmentName": "Hải quan cửa khẩu quốc tế Mộc Bài",
+            "newCode": "45B1",
+            "shortedName": "DNVMBAITN",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Mộc Bài"
+          },
+          {
+            "currentCode": "45B2",
+            "departmentName": "Hải quan cửa khẩu quốc tế Mộc Bài",
+            "newCode": "45B1",
+            "shortedName": "DNVMBAITN",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Mộc Bài"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 17",
+        "items": [
+          {
+            "currentCode": "45C1",
+            "departmentName": "Hải quan cửa khẩu quốc tế Xa Mát",
+            "newCode": "45C1",
+            "shortedName": "DNVXAMATTN",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Xa Mát"
+          },
+          {
+            "currentCode": "45C2",
+            "departmentName": "Hải quan cửa khẩu quốc tế Xa Mát",
+            "newCode": "45C1",
+            "shortedName": "DNVXAMATTN",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Xa Mát"
+          },
+          {
+            "currentCode": "45F1",
+            "departmentName": "Hải quan Khu công nghiệp Trảng Bàng",
+            "newCode": "45F1",
+            "shortedName": "DNVTBANGTN",
+            "newDepartmentName": "Hải quan Khu công nghiệp Trảng Bàng"
+          },
+          {
+            "currentCode": "45F2",
+            "departmentName": "Hải quan Khu công nghiệp Trảng Bàng",
+            "newCode": "45F1",
+            "shortedName": "DNVTBANGTN",
+            "newDepartmentName": "Hải quan Khu công nghiệp Trảng Bàng"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 18",
+        "items": [
+          {
+            "currentCode": "47D1",
+            "departmentName": "Hải quan cửa khẩu cảng Đồng Nai",
+            "newCode": "47D3",
+            "shortedName": "HQCKCDNA",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Đồng Nai"
+          },
+          {
+            "currentCode": "47D2",
+            "departmentName": "Hải quan cửa khẩu cảng Đồng Nai",
+            "newCode": "47D3",
+            "shortedName": "HQCKCDNA",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Đồng Nai"
+          },
+          {
+            "currentCode": "47D3",
+            "departmentName": "Hải quan cửa khẩu cảng Đồng Nai",
+            "newCode": "47D3",
+            "shortedName": "HQCKCDNA",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Đồng Nai"
+          }
+        ]
+      },
+      {
+        "customsSubDepartment": "CCHQKV 20",
+        "items": [
+          {
+            "currentCode": "49BB",
+            "departmentName": "Hải quan cửa khẩu quốc tế Thường Phước",
+            "newCode": "49BB",
+            "shortedName": "THPHUOCDT",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Thường Phước"
+          },
+          {
+            "currentCode": "49BE",
+            "departmentName": "Hải quan cửa khẩu quốc tế Thường Phước",
+            "newCode": "49BB",
+            "shortedName": "THPHUOCDT",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Thường Phước"
+          },
+          {
+            "currentCode": "49BF",
+            "departmentName": "Hải quan cửa khẩu quốc tế Dinh Bà",
+            "newCode": "49BG",
+            "shortedName": "DINHBADT",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Dinh Bà"
+          },
+          {
+            "currentCode": "49BG",
+            "departmentName": "Hải quan cửa khẩu quốc tế Dinh Bà",
+            "newCode": "49BG",
+            "shortedName": "DINHBADT",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Dinh Bà"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "customsSubDepartments": [
+      {
+        "customsSubDepartment": "CCHQKV 20",
+        "items": [
+          {
+            "currentCode": "49C1",
+            "departmentName": "Hải quan cửa khẩu cảng Đồng Tháp",
+            "newCode": "49C2",
+            "shortedName": "SADECCDT",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Đồng Tháp"
+          },
+          {
+            "currentCode": "49C2",
+            "departmentName": "Hải quan cửa khẩu cảng Đồng Tháp",
+            "newCode": "49C2",
+            "shortedName": "SADECCDT",
+            "newDepartmentName": "Hải quan cửa khẩu cảng Đồng Tháp"
+          },
+          {
+            "currentCode": "53BC",
+            "departmentName": "Hải quan cửa khẩu quốc tế Hà Tiên",
+            "newCode": "53BC",
+            "shortedName": "HATIENKG",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Hà Tiên"
+          },
+          {
+            "currentCode": "53BK",
+            "departmentName": "Hải quan cửa khẩu quốc tế Hà Tiên",
+            "newCode": "53BC",
+            "shortedName": "HATIENKG",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Hà Tiên"
+          },
+          {
+            "currentCode": "53CD",
+            "departmentName": "Hải quan cửa khẩu quốc tế Hà Tiên",
+            "newCode": "53BC",
+            "shortedName": "HATIENKG",
+            "newDepartmentName": "Hải quan cửa khẩu quốc tế Hà Tiên"
+          }
+        ]
+      }
+    ]
+  }
+]
