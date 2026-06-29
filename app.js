@@ -1,5 +1,6 @@
 const DATA_URL = "new-code.json";
 const MAX_SUGGESTIONS = 8;
+const IMAGE_BASE_PATH = "/new-customs-code/images";
 
 let data = [];
 let suggestions = [];
@@ -224,7 +225,7 @@ function openDocument(page) {
   documentTitle.textContent = `Tài liệu trang ${cleanPage}`;
   documentError.hidden = true;
   documentImage.hidden = true;
-  documentImage.src = `/images/${encodeURIComponent(cleanPage)}.jpg`;
+  documentImage.src = `${IMAGE_BASE_PATH}/${encodeURIComponent(cleanPage)}.jpg`;
   documentModal.hidden = false;
 }
 
