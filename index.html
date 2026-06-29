@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tra cứu thay đổi mã Hải quan</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <button id="openListButton" class="list-button" type="button">Danh sách</button>
+
+    <main class="app">
+      <section class="lookup-box">
+        <p class="official-text">
+          Theo Công văn 628/CNTT-QLVH ngày 19 tháng 6 năm 2026<br>
+          của BAN CNTT &amp; THỐNG KÊ HẢI QUAN, Cục Hải quan
+        </p>
+
+        <h1>Tra cứu thay đổi mã Hải quan</h1>
+
+        <form id="searchForm" class="search-form" autocomplete="off">
+          <div class="autocomplete-wrap">
+            <label class="sr-only" for="searchInput">Tra cứu mã Hải quan</label>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Nhập mã cũ hoặc tên đơn vị Hải quan"
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-controls="suggestions"
+            >
+            <div id="suggestions" class="suggestions" role="listbox" hidden></div>
+          </div>
+          <button type="submit">Tra cứu</button>
+        </form>
+
+        <div id="status" class="status">Đang tải dữ liệu...</div>
+        <section id="results" class="results" aria-live="polite"></section>
+      </section>
+    </main>
+
+    <div id="listModal" class="modal" hidden>
+      <div class="modal-backdrop" data-close-modal></div>
+      <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <header class="modal-header">
+          <h2 id="modalTitle">Danh sách thay đổi mã Hải quan</h2>
+          <button class="close-button" type="button" data-close-modal aria-label="Đóng">×</button>
+        </header>
+        <div id="fullList" class="modal-body"></div>
+      </section>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
