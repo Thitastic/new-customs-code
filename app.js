@@ -13,22 +13,39 @@ const resultsBox = document.getElementById("results");
 const openListButton = document.getElementById("openListButton");
 const listModal = document.getElementById("listModal");
 const fullListBox = document.getElementById("fullList");
+const documentModal = document.getElementById("documentModal");
+const documentTitle = document.getElementById("documentTitle");
+const documentImage = document.getElementById("documentImage");
+const documentError = document.getElementById("documentError");
 
 document.addEventListener("DOMContentLoaded", loadData);
 form.addEventListener("submit", search);
 input.addEventListener("input", updateSuggestions);
 input.addEventListener("keydown", handleSuggestionKeys);
 openListButton.addEventListener("click", openFullList);
+documentImage.addEventListener("load", showDocumentImage);
+documentImage.addEventListener("error", showDocumentError);
 
 document.addEventListener("click", (event) => {
   const suggestionButton = event.target.closest("[data-suggestion-index]");
+  const documentButton = event.target.closest("[data-view-document]");
   if (suggestionButton) {
     selectSuggestion(Number(suggestionButton.dataset.suggestionIndex));
     return;
   }
 
-  if (event.target.closest("[data-close-modal]")) {
+  if (documentButton) {
+    openDocument(documentButton.dataset.page);
+    return;
+  }
+
+  if (event.target.closest("[data-close-list]")) {
     closeFullList();
+    return;
+  }
+
+  if (event.target.closest("[data-close-document]")) {
+    closeDocument();
     return;
   }
 
@@ -39,7 +56,14 @@ document.addEventListener("click", (event) => {
 
 document.addEventListener("keydown", (event) => {
   if (event.key === "Escape") {
-    closeFullList();
+    if (!documentModal.hidden) {
+      closeDocument();
+      return;
+    }
+
+    if (!listModal.hidden) {
+      closeFullList();
+    }
   }
 });
 
@@ -191,6 +215,34 @@ function closeFullList() {
   listModal.hidden = true;
 }
 
+function openDocument(page) {
+  const cleanPage = clean(page);
+  if (!cleanPage) {
+    return;
+  }
+
+  documentTitle.textContent = `Tài liệu trang ${cleanPage}`;
+  documentError.hidden = true;
+  documentImage.hidden = true;
+  documentImage.src = `/images/${encodeURIComponent(cleanPage)}.jpg`;
+  documentModal.hidden = false;
+}
+
+function closeDocument() {
+  documentModal.hidden = true;
+  documentImage.removeAttribute("src");
+}
+
+function showDocumentImage() {
+  documentError.hidden = true;
+  documentImage.hidden = false;
+}
+
+function showDocumentError() {
+  documentImage.hidden = true;
+  documentError.hidden = false;
+}
+
 function normalizeData(raw) {
   const pages = Array.isArray(raw) ? raw : [];
   const flat = [];
@@ -304,7 +356,7 @@ function renderCodeLine(item) {
 }
 
 function renderDocumentButton(item) {
-  return `<a class="document-button" href="/images/${encodeURIComponent(item.page)}.jpg" target="_blank" rel="noopener">Xem tài liệu</a>`;
+  return `<button class="document-button" type="button" data-view-document data-page="${escapeHtml(item.page)}">Xem tài liệu</button>`;
 }
 
 function suggestionLabel(item) {

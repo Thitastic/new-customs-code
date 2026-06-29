@@ -40,13 +40,27 @@
     </main>
 
     <div id="listModal" class="modal" hidden>
-      <div class="modal-backdrop" data-close-modal></div>
+      <div class="modal-backdrop" data-close-list></div>
       <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
         <header class="modal-header">
           <h2 id="modalTitle">Danh sách thay đổi mã Hải quan</h2>
-          <button class="close-button" type="button" data-close-modal aria-label="Đóng">×</button>
+          <button class="close-button" type="button" data-close-list aria-label="Đóng">×</button>
         </header>
         <div id="fullList" class="modal-body"></div>
+      </section>
+    </div>
+
+    <div id="documentModal" class="modal document-modal" hidden>
+      <div class="modal-backdrop" data-close-document></div>
+      <section class="modal-panel document-panel" role="dialog" aria-modal="true" aria-labelledby="documentTitle">
+        <header class="modal-header">
+          <h2 id="documentTitle">Tài liệu</h2>
+          <button class="close-button" type="button" data-close-document aria-label="Đóng">×</button>
+        </header>
+        <div class="document-body">
+          <div id="documentError" class="empty" hidden>Không tìm thấy ảnh tài liệu.</div>
+          <img id="documentImage" class="document-image" alt="Ảnh tài liệu">
+        </div>
       </section>
     </div>
 

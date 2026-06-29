@@ -262,6 +262,10 @@ button:hover,
   padding: 20px;
 }
 
+.document-modal {
+  z-index: 60;
+}
+
 .modal-backdrop {
   position: absolute;
   inset: 0;
@@ -306,6 +310,31 @@ button:hover,
 .modal-body {
   overflow: auto;
   padding: 16px 18px 18px;
+}
+
+.document-panel {
+  width: min(1100px, 100%);
+}
+
+.document-body {
+  overflow: auto;
+  padding: 14px;
+  background: #f8fafc;
+}
+
+.document-image {
+  display: block;
+  max-width: 100%;
+  max-height: calc(88vh - 110px);
+  margin: 0 auto;
+  object-fit: contain;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.document-image[hidden] {
+  display: none;
 }
 
 .list-table {
